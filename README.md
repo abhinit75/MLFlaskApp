@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/abhinit75/MLFlaskApp.svg?style=svg)](https://circleci.com/gh/abhinit75/MLFlaskApp)
 
 ## Project Overview
 
